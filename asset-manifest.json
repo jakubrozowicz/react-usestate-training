@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-usestate-training/static/css/main.5bfe4949.css",
+    "main.js": "/react-usestate-training/static/js/main.5d87123f.js",
+    "index.html": "/react-usestate-training/index.html",
+    "main.5bfe4949.css.map": "/react-usestate-training/static/css/main.5bfe4949.css.map",
+    "main.5d87123f.js.map": "/react-usestate-training/static/js/main.5d87123f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfe4949.css",
+    "static/js/main.5d87123f.js"
+  ]
+}
